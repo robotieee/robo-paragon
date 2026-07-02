@@ -3,8 +3,6 @@
  *
  * Código usado no robô Paragon como exemplo competitivo para os alunos do
  * projeto ROBOTIEEE.
- *
- * Autor: Alexandre Hiroyuki Yamauchi
  **************************************************************/
 
 // Inclusão de bibliotecas
@@ -77,6 +75,7 @@ int vermelho;
 int branco;
 int preto;
 
+// Setup - roda uma vez ao ligar o robô para configurar os sensores e os motores
 void setup() {
   // Configuração dos pinos //
 
@@ -104,4 +103,5 @@ void setup() {
   preto = sensorCorDireita.add_color_point(caliPreto);
 }
 
+// Loop - roda continuamente para controlar o robô
 void loop() {}
