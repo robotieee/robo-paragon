@@ -2,7 +2,7 @@
 
 Código de exemplo de um robô feito pelos instrutores do projeto.
 
-## main.ino
+## principal.ino
 
 Código principal do robô.
 
@@ -26,6 +26,6 @@ No topo, priorizamos as variáveis editadas com mais frequência. Pois assim dim
   - Detecta curvas simples.
   - Detecta linha reta com o controlador PID.
 
-## calibration.ino
+## calibrar.ino
 
 Código para calibrar os sensores.
