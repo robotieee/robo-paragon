@@ -2,6 +2,12 @@
 
 Código de exemplo competitivo para os alunos e instrutores do projeto ROBOTIEEE.
 
+## Dependências
+
+- Arduino IDE
+- Biblioteca CompKit (https://github.com/robotieee/compkit)
+- Biblioteca Ultrasonic (https://github.com/ErickSimoes/Ultrasonic)
+
 ## principal.ino
 
 Código principal do robô.
