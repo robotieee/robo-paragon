@@ -1,8 +1,8 @@
 /**************************************************************
  * Robô Paragon - Código Principal
  *
- * Código usado no robô Paragon como exemplo competitivo para os alunos do
- * projeto ROBOTIEEE.
+ * Código de exemplo competitivo para os alunos e
+ * instrutores do projeto ROBOTIEEE.
  **************************************************************/
 
 // * Inclusão de bibliotecas * //

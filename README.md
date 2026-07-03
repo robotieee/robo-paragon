@@ -1,6 +1,6 @@
 # Robô Paragon - Modelo OBR
 
-Código de exemplo de um robô feito pelos instrutores do projeto.
+Código de exemplo competitivo para os alunos e instrutores do projeto ROBOTIEEE.
 
 ## principal.ino
 
