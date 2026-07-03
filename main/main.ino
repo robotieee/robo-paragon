@@ -5,7 +5,8 @@
  * projeto ROBOTIEEE.
  **************************************************************/
 
-// Inclusão de bibliotecas
+// * Inclusão de bibliotecas * //
+
 // (Reutiliza ódigos feitos por outras pessoas que facilitam a programação)
 #include <Ultrasonic.h>
 #include <compkit.h>
